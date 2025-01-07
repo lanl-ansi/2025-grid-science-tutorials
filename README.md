@@ -14,7 +14,7 @@ This is a collection of Jupyter Notebooks presented at the 2025 Grid Science Win
 
 This content is approved for unlimited release under the following LA-URs
 
-LA-UR-25-20073 (pre-presentation)
-LA-UR-25-20073 (PowerModelsITD Tutorial)
-LA-UR-25-20074 (PowerModelsONM Tutorial)
-LA-UR-25-20118 (PowerModelsProtection Tutorial)
+- LA-UR-25-20073 (pre-presentation)
+- LA-UR-25-20073 (PowerModelsITD Tutorial)
+- LA-UR-25-20074 (PowerModelsONM Tutorial)
+- LA-UR-25-20118 (PowerModelsProtection Tutorial)
