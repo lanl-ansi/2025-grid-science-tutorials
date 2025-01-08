@@ -2,3 +2,5 @@ Manifest.toml
 
 .vscode
 .ipynb_checkpoints
+
+tmp/
