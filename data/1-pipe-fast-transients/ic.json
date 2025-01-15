@@ -1,0 +1,9 @@
+{
+    "initial_nodal_pressure": {
+        "1": 6.5e6,
+        "2": 6.5e6
+    },
+    "initial_pipe_flow": {
+        "1": 0
+    }
+}

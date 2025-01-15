@@ -6,11 +6,13 @@ This is a collection of Jupyter Notebooks presented at the 2025 Grid Science Win
   - Author: Juan Ospina
   - Presenter: David M Fobes
 - PowerModelsONM-Tutorial.ipynb
-  - Author: David M Fobes
+  - Author/Presenter: David M Fobes
 - PowerModelsProtection-Tutorial.ipynb
-  - Author: Jose Tabarez
+  - Author/Presenter: Jose Tabarez
 - PowerModelsONM-Dev-Tutorial.ipynb
-  - Author: David M Fobes
+  - Author/Presenter: David M Fobes
+- GasModels-GasTranSim-Tutorial.ipynb
+  - Author/Presenter: Sai Krishna Kanth Hari
 
 ## License
 
@@ -21,3 +23,5 @@ This content is approved for unlimited release under the following LA-URs
 - LA-UR-25-20074 (PowerModelsONM Tutorial)
 - LA-UR-25-20118 (PowerModelsProtection Tutorial)
 - LA-UR-25-20156 (PowerModelsONM Dev Tutorial)
+- LA-UR-25-20295 (GasModels/GasTranSim Tutorial)
+- LA-UR-25-20295 (GasModels/GasTranSim slides)
